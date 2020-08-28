@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "prothom"
+    }
+  },
+  "defaultProject": "prothom",
+  "cli": {
+    "analytics": "8256ba18-c0fc-4c6c-a257-993898a9c33c"
+  }
 }
